@@ -1,6 +1,6 @@
 text = input("Please insert song lyrics")
 
-print(text.split())
+print(text.lower.split())
 
 word_count = {}
 
