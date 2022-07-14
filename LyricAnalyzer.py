@@ -9,3 +9,4 @@ for word in text.split():
     word_count[word] += 1
   else:
     word_count[word] = 1
+print(word_count)
